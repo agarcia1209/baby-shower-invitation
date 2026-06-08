@@ -51,7 +51,7 @@ export default function BabyShowerInvitation() {
               Te invitamos a florecer...
             </span>
             <p className="text-neutral-500 font-light tracking-wide text-sm">
-              Haz clic abajo para abrir la invitación de la bebé Mia
+              Haz clic abajo para abrir la invitación de baby Mia
             </p>
             <button
               onClick={handleEnterSite}
@@ -86,7 +86,7 @@ export default function BabyShowerInvitation() {
         </span>
         
         <h1 className="text-4xl md:text-6xl font-serif text-[#6b586c] font-extrabold tracking-tight mb-6 mt-2 leading-tight">
-          Baby Shower Celebration
+          Mia's Baby shower
         </h1>
         
         <p className="text-md md:text-xl text-[#7a7279] max-w-xl mx-auto mb-12 tracking-wide leading-relaxed font-light bg-white/25 backdrop-blur-xs px-6 py-3 rounded-2xl inline-block border border-white/40">
@@ -219,7 +219,7 @@ function RsvpForm() {
     setStatus('submitting');
 
     // Make sure to add your copied Web App string back here!
-    const GOOGLE_SCRIPT_URL = 'YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL_HERE';
+    const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxiwO9voJaxjbUbAPekB1PgSFYtdPdK0Yd8lqsmW86r-OlfLbcsc3vFDxtlNCan--c/exec';
 
     try {
       await fetch(GOOGLE_SCRIPT_URL, {
