@@ -210,9 +210,9 @@ export default function BabyShowerInvitation() {
             te dejamos algunas ideas para Mia.
           </p>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 max-w-md mx-auto">
+          <div className="flex flex-col sm:flex-row flex-wrap gap-4 justify-center max-w-2xl mx-auto">
             <a
-              href="https://amazon.ca"
+              href="https://www.amazon.ca/baby-reg/andres-garcia-september-2026-edmonton/2XUHTWGHXNAH4?ref_=cm_sw_r_apann_dp_26WD8EM8KGZQ953T253W&language=en-US"
               target="_blank"
               rel="noopener noreferrer"
               className="p-6 bg-white/80 rounded-2xl border border-neutral-100 shadow-2xs font-semibold text-[#7a7279] hover:border-[#df8fa7] hover:text-[#df8fa7] hover:-translate-y-0.5 transition-all duration-200 text-md"
@@ -220,12 +220,20 @@ export default function BabyShowerInvitation() {
               Amazon Registry
             </a>
             <a
-              href="https://target.com"
+              href="https://www.walmart.ca/en/registry/BR/e05248b2-614c-44c8-a061-a25f57e734c3"
               target="_blank"
               rel="noopener noreferrer"
               className="p-6 bg-white/80 rounded-2xl border border-neutral-100 shadow-2xs font-semibold text-[#7a7279] hover:border-[#df8fa7] hover:text-[#df8fa7] hover:-translate-y-0.5 transition-all duration-200 text-md"
             >
-              Toys R US Registry
+              Walmart
+            </a>
+            <a
+              href="https://www.westcoastkids.ca/giftregistry/view/index/id/QL9WUN/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="p-6 bg-white/80 rounded-2xl border border-neutral-100 shadow-2xs font-semibold text-[#7a7279] hover:border-[#df8fa7] hover:text-[#df8fa7] hover:-translate-y-0.5 transition-all duration-200 text-md"
+            >
+              WestCoast Kids
             </a>
           </div>
         </section>
