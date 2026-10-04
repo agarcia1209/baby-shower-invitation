@@ -216,20 +216,12 @@ export default function BabyShowerInvitation() {
               Amazon Registry
             </a>
             <a
-              href="https://www.walmart.ca/en/registry/BR/e05248b2-614c-44c8-a061-a25f57e734c3"
+              href="https://www.wishbob.com/pqchwmndet"
               target="_blank"
               rel="noopener noreferrer"
               className="p-6 bg-white/80 rounded-2xl border border-neutral-100 shadow-2xs font-semibold text-[#8c7b74] hover:border-[#e6b4bc] hover:text-[#e6b4bc] hover:-translate-y-0.5 transition-all duration-200 text-md"
             >
-              Walmart
-            </a>
-            <a
-              href="https://www.westcoastkids.ca/giftregistry/view/index/id/QL9WUN/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="p-6 bg-white/80 rounded-2xl border border-neutral-100 shadow-2xs font-semibold text-[#8c7b74] hover:border-[#e6b4bc] hover:text-[#e6b4bc] hover:-translate-y-0.5 transition-all duration-200 text-md"
-            >
-              WestCoast Kids
+              Otras opciones...
             </a>
           </div>
         </section>
